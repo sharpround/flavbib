@@ -47,3 +47,4 @@ Temporary Items
 .apdisk
 .ipynb_checkpoints/data_clean-checkpoint.ipynb
 *.pickle
+*.pickel

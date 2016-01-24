@@ -24,8 +24,6 @@ achiote + pork + sour orange
 
 
 ACIDITY
-
-
 (See Sourness)
 
 
@@ -74,8 +72,6 @@ cucumber + mint + yogurt
 
 
 AFRICAN CUISINE
-
-
 (See also Ethiopian and Moroccan Cuisines)
 bananas
 bell peppers
@@ -109,8 +105,6 @@ yams, esp. West African
 
 
 AFRICAN CUISINE (NORTH)
-
-
 (See also Moroccan Cuisine)
 bell peppers
 braised dishes
@@ -297,8 +291,6 @@ In Jamaica, allspice is their pepper. It’s fruitier than black peppercorns. I 
 
 
 ALMOND OIL
-
-
 (See Oil, Almond)
 
 
@@ -572,8 +564,6 @@ angelica + cream + rhubarb
 
 
 ANISE
-
-
 (See also Anise, Star, and Fennel)
 Function: warming
 Weight: light–medium
@@ -1246,8 +1236,6 @@ dried apricots + dried cherries + ginger + orange + pistachios
 
 
 ARGENTINIAN CUISINE
-
-
 (See also Latin American Cuisine)
 beef
 corn
@@ -1486,9 +1474,8 @@ Jerusalem artichoke + lemon + morels
 
 
 
+
 ARUGULA
-
-
 (See also Lettuces—Bitter Greens and Chicories)
 Season: spring–summer
 Taste: bitter
@@ -1601,8 +1588,6 @@ arugula + pears + prosciutto
 
 
 ASIAN CUISINE
-
-
 (See Chinese, Japanese, Vietnamese, etc. Cuisines)
 
 
@@ -2063,8 +2048,6 @@ Creamy Avocado Pudding with Pink Grapefruit Reduction and Candied Zest
 
 
 AVOCADO OIL
-
-
 (See Oil, Avocado)
 
 
@@ -2279,8 +2262,6 @@ Balance taste by adding its opposite or its complement.
 
 
 BALSAMIC VINEGAR
-
-
 (See Vinegar, Balsamic)
 
 
@@ -2532,8 +2513,6 @@ I love basil. It is more familiar than cilantro, and more people like it. I use 
 
 
 BASIL
-
-
 (See also Basil, Thai, and Lemon Basil)
 Season: summer
 Taste: sweet
@@ -2659,8 +2638,6 @@ basil + olive oil + Parmesan cheese
 
 
 BASIL, LEMON
-
-
 (See Lemon Basil)
 
 
@@ -2706,8 +2683,6 @@ Thai basil + coconut milk + ginger
 
 
 BASS
-
-
 (See also Bass, Sea, and Bass, Striped)
 Weight: light
 Volume: quiet
@@ -3184,8 +3159,6 @@ vinegar
 
 
 BEANS—IN GENERAL
-
-
 (See also specific beans below)
 carrots
 celery
@@ -3314,8 +3287,6 @@ black beans + lemon + sherry
 
 
 BEANS, BROAD
-
-
 (See Beans, Fava)
 
 
@@ -3323,8 +3294,6 @@ BEANS, BROAD
 
 
 BEANS, BUTTER
-
-
 (See Beans, Lima)
 
 
@@ -3332,8 +3301,6 @@ BEANS, BUTTER
 
 
 BEANS, CANNELLINI
-
-
 (See also Beans, White)
 Weight: medium
 Volume: quiet–moderate
@@ -3550,8 +3517,6 @@ Pasta with Basil Pesto, Green Beans, and Potatoes
 
 
 BEANS, GARBANZO
-
-
 (See Chickpeas)
 
 
@@ -4894,13 +4859,12 @@ Skirt steak comes in a long strip and looks like a belt—it’s about two feet 
 
 
 
-Michael Lomonaco of Porter House New York on Cooking Steak
-
-
+On Cooking Steak
 Aging: Aging is important because it tenderizes the steak. The aging process breaks down the fibers and dehydrates the steak, concentrating its flavor. A dryaged steak has a more minerally and sharp edge to it, versus fresh meat that tastes sweeter. It is critical to the flavor and adds to the cost because it takes four weeks of aging to achieve it.
 Seasoning: All our steaks are seasoned with coarse kosher salt and freshly ground black pepper just prior to cooking, which draws out the flavor while they cook. A squeeze of lemon makes a good Tuscan steak taste even better. If you are in Italy and eating “bistecca Fiorentina,” what you are having is an Italian porterhouse. The steak is grilled over dried grape vines and served with a drizzle of green olive oil from the first pressing of the new harvest and lemons on the side.
 Cooking: A steak should be cooked rare to medium rare. “Rare” is a little cool inside and hot on the exterior. “Medium rare” is just a shade past, and only warm in the middle. Cooking a steak beyond that point, it starts to toughen up and the fat oozes out, making it increasingly dry and tough.
 Saucing: Part of looking forward is looking back. Sauces provide the connection to historical French and Italian cooking. In the gastronomic world, the saucier was the top cook in the kitchen. It is all about building layer upon layer of complexity in a sauce. It is most often sweet and sour, to cut through the richness of the fat of the steak. Red wine sauce has the acidity to cut richness, with sweetness from caramelized shallots, and it enhances the beef flavor. We also make a homemade barbecue sauce as our steak sauce, which is sweet from light brown sugar and molasses, tart from red wine vinegar, and smoky from chipotle peppers.
+—MICHAEL LOMONACO, PORTER HOUSE (NEW YORK CITY)
 
 
 
@@ -5335,8 +5299,6 @@ Red Berry–White Chocolate Trifles
 
 
 BERRIES—IN GENERAL
-
-
 (See also Raspberries, Strawberries, etc.)
 Season: spring–summer
 Weight: light
@@ -5594,8 +5556,6 @@ black-eyed peas + rice + savory
 
 
 BLACK PEPPER
-
-
 (See Pepper, Black)
 
 
@@ -5819,8 +5779,6 @@ zucchini
 
 
 BONITO FLAKES, DRIED
-
-
 (See also Tuna)
 Taste: salty
 Weight: light–medium
@@ -5863,8 +5821,6 @@ bay leaf + parsley + thyme
 
 
 BOURBON
-
-
 (See also Whiskey)
 Weight: heavy
 Volume: loud
@@ -5976,8 +5932,6 @@ venison, shoulder
 
 
 BRAZILIAN CUISINE
-
-
 (See also Latin American Cuisine)
 beans, black
 cardamom
@@ -6770,8 +6724,6 @@ tomatoes
 
 
 CALAMARI
-
-
 (See Squid)
 
 
@@ -6779,8 +6731,6 @@ CALAMARI
 
 
 CALF’S LIVER
-
-
 (See Liver, Calf’s)
 
 
@@ -6870,8 +6820,6 @@ yogurt
 
 
 CANTONESE CUISINE
-
-
 (See Chinese Cuisine)
 
 
@@ -8071,8 +8019,6 @@ veal
 
 
 CHEESE—IN GENERAL
-
-
 (See also specific cheeses)
 Taste: sweet–sour
 Function: cooling
@@ -8136,8 +8082,6 @@ foie gras
 
 
 CHEESE, BLUE
-
-
 (See also Gorgonzola, Roquefort, Stilton, etc.)
 almonds
 apples
@@ -8358,8 +8302,6 @@ melons
 
 
 CHEESE, CREAM
-
-
 (See Cream Cheese)
 
 
@@ -8831,8 +8773,6 @@ manchego cheese + almonds + quince paste
 
 
 CHEESE, MASCARPONE
-
-
 (See Mascarpone)
 
 
@@ -9216,8 +9156,6 @@ I’m a fan of apricot with Berkswell [an English sheep’s milk cheese].
 
 
 CHEESE, SPANISH
-
-
 (See Cheese: Cabrales, Manchego)
 
 
@@ -9955,8 +9893,6 @@ chicken + mustard + thyme
 
 
 CHICKEN LIVERS
-
-
 (See Liver, Chicken)
 
 
@@ -10060,8 +9996,6 @@ chickpeas + garlic + olive oil + parsley
 
 
 CHICORY
-
-
 (See also Endive; Lettuces—Bitter Greens and Chicories; and Radicchio)
 Season: autumn–spring
 Weight: medium
@@ -10430,8 +10364,6 @@ vinegar, white
 
 
 CHILEAN CUISINE
-
-
 (See also Latin American Cuisines)
 chile peppers
 corn
@@ -10483,8 +10415,6 @@ tequila
 
 
 CHINESE CUISINE
-
-
 (See also Szechuan Cuisine)
 Techniques: fry, stir-fry
 
@@ -10538,8 +10468,6 @@ soy sauce + sugar
 
 
 CHINESE FIVE-SPICE POWDER
-
-
 (See Five-Spice Powder)
 
 
@@ -10980,8 +10908,6 @@ white chocolate + ginger + pistachios + rice
 
 
 CHORIZO
-
-
 (See also Sausages) Taste: salty; spicy
 Weight: medium–heavy
 Volume: moderate–loud
@@ -11305,8 +11231,6 @@ I use Saigon cinnamon that is the most amazing cinnamon you will ever try. It co
 
 
 CITRUS—IN GENERAL
-
-
 (See also Lemons, Limes, Oranges, etc.)
 Season: winter
 Taste: sour
@@ -12122,8 +12046,6 @@ stews and stewed dishes
 
 
 COLLARD GREENS
-
-
 (See Greens, Collard)
 
 
@@ -12440,8 +12362,6 @@ corn + cilantro + shrimp
 
 
 CORNED BEEF
-
-
 (See Beef—Brisket)
 
 
@@ -13068,8 +12988,6 @@ cream cheese + maple syrup + mascarpone
 
 
 CREAM, SOUR
-
-
 (See Sour Cream)
 
 
@@ -13118,8 +13036,6 @@ shrimp rémoulade
 
 
 CRESS
-
-
 (See Watercress)
 
 
@@ -13657,8 +13573,6 @@ Someone told me about a savory date dish they had but could only remember that i
 
 
 DANDELION GREENS
-
-
 (See Greens, Dandelion)
 
 
@@ -14729,8 +14643,6 @@ endive + cheese + mushrooms
 
 
 ENDIVE, CURLY
-
-
 (See Frisée)
 
 
@@ -14898,8 +14810,6 @@ wine, honey
 
 
 EUROPEAN, EASTERN CUISINES
-
-
 (See Eastern European Cuisines)
 
 
@@ -14907,8 +14817,6 @@ EUROPEAN, EASTERN CUISINES
 
 
 FALL
-
-
 (See Autumn)
 
 
@@ -15251,8 +15159,6 @@ I love fenugreek, and its incredible aromatics. It goes well with everything fro
 
 
 FETA CHEESE
-
-
 (See Cheese, Feta)
 
 
@@ -15540,8 +15446,6 @@ figs + Pernod + walnuts
 
 
 FILET MIGNON
-
-
 (See Beef—Steak: Filet Mignon)
 
 
@@ -15578,8 +15482,6 @@ I like my fish simply grilled or steamed. I choose fish that have a lot of flavo
 
 
 FISH—IN GENERAL
-
-
 (See individual fish; Seafood)
 Taste: sweet
 Function: heating
@@ -16085,8 +15987,6 @@ frisée + bacon + Roquefort cheese + garlic + shallots + sherry vinegar
 
 
 FRUIT, DRIED
-
-
 (See also Dates, Figs, Raisins, etc.)
 Taste: sweet
 Tips: If the fruit is hard, steam before using.
@@ -16107,8 +16007,6 @@ walnuts
 
 
 FRUIT, FRESH
-
-
 (See also specific fruits)
 Taste: sweet
 Tips: Sugar enhances the natural flavor of fruit.
@@ -16126,8 +16024,6 @@ vanilla
 
 
 FRUIT, TROPICAL
-
-
 (See also specific fruits, e.g., Mangoes, Papayas, Pineapples, etc.)
 Taste: sweet, sour
 
@@ -16202,8 +16098,6 @@ tropical fruit + ginger + mint + orange + sugar
 
 
 GAME—IN GENERAL
-
-
 (See also Rabbit, Venison)
 Season: autumn
 Weight: heavy
@@ -16243,8 +16137,6 @@ wine, red
 
 
 GARAM MASALA
-
-
 Function: warming
 Tips: Add near the end of the cooking process or before serving.
 
@@ -16262,8 +16154,6 @@ cardamom + black pepper + cinnamon + cloves + coriander + cumin + dried chiles +
 
 
 GARLIC
-
-
 Season: year-round
 Botanical relatives: chives, leeks, onions, shallots
 Function: heating
@@ -16798,8 +16688,6 @@ My mom always had candied ginger in the spice cupboard when I was growing up. To
 
 
 GOAT CHEESE
-
-
 (See Cheese, Goat)
 
 
@@ -16984,8 +16872,6 @@ yogurt
 
 
 GREEK CUISINE
-
-
 (See also Mediterranean Cuisines)
 allspice
 anise
@@ -17073,8 +16959,6 @@ yogurt + cinnamon
 
 
 GREEN BEANS
-
-
 (See Beans, Green)
 
 
@@ -17082,8 +16966,6 @@ GREEN BEANS
 
 
 GREENS—IN GENERAL
-
-
 (See also specific greens)
 Season: year-round
 Taste: bitter
@@ -17220,8 +17102,6 @@ vinegar
 
 
 GREENS, KALE
-
-
 (See Kale)
 
 
@@ -17269,8 +17149,6 @@ mustard greens + sesame oil + soy sauce
 
 
 GREENS, SALAD
-
-
 (See also Lettuce, Sorrel, Watercress, etc.)
 Season: late spring
 
@@ -17511,8 +17389,6 @@ vinegar, white
 
 
 HADDOCK
-
-
 (See Cod)
 
 
@@ -17849,8 +17725,6 @@ tomatoes
 
 
 HAZELNUT OIL
-
-
 (See Oil, Hazelnut)
 
 
@@ -17991,8 +17865,6 @@ I am more of an herb guy than a spice guy. It comes back to a certain conservati
 
 
 HERBS
-
-
 (See specific herbs)
 
 
@@ -18766,8 +18638,6 @@ Goat Meat. I just had spit-roasted goat at Da Cesare. If I knew I was going to d
 
 
 JAMAICAN CUISINE
-
-
 (See also Caribbean Cuisines)
 jerked dishes (e.g., chicken)
 
@@ -18979,8 +18849,6 @@ juniper berries + game + garlic + rosemary
 
 
 KAFFIR LIMES AND KAFFIR LIME LEAF
-
-
 (See also Lemons, Limes, etc.)
 Season: year-round
 Taste: sour
@@ -19137,8 +19005,6 @@ wine: Champagne, ice wine
 
 
 KOHLRABI
-
-
 (See also Rutabagas, Turnips)
 Season: summer–autumn
 Botanical relatives: broccoli, Brussels sprouts, cabbage, cauliflower, collard greens, kale
@@ -19895,8 +19761,6 @@ Lemon can be used by itself or with other ingredients because it enhances so man
 
 
 LEGUMES
-
-
 (See Beans, Lentils, Peas, etc.)
 
 
@@ -20584,8 +20448,6 @@ yogurt
 
 
 LETTUCES—BITTER GREENS AND CHICORIES
-
-
 (See Arugula, Escarole, Frisée, Radicchio)
 Season: spring
 Taste: bitter
@@ -20626,8 +20488,6 @@ walnuts
 
 
 LETTUCES—MESCLUN GREENS
-
-
 (i.e., mixed baby lettuces) (See also Lettuces—Bitter Greens and Chicories)
 Season: spring
 Taste: bitter
@@ -20865,8 +20725,6 @@ lime + strawberries + tequila
 
 
 LIMES AND LIME LEAF, KAFFIR
-
-
 (See Kaffir Limes and Kaffir Lime Leaf)
 
 
@@ -21005,8 +20863,6 @@ Cooked lobster meat blends well with mayonnaise, but I don’t think I’d use i
 
 
 LIVER, DUCK OR GOOSE
-
-
 (See Foie Gras)
 
 
@@ -21480,8 +21336,6 @@ Macadamia nuts are buttery, rich nuts. I will even pair them with sea scallops, 
 
 
 MACADAMIA NUT OIL
-
-
 (See Oil, Macadamia Nut)
 
 
@@ -22328,8 +22182,6 @@ Tips: Enhance the flavor of meat before (e.g., via brining and marinating), duri
 
 
 MEDITERRANEAN CUISINES
-
-
 (See also French [southern], Italian, Middle Eastern, Moroccan, and Spanish Cuisines)
 
 
@@ -22361,8 +22213,6 @@ savory + thyme
 
 
 MELON/MUSKMELONS—IN GENERAL
-
-
 (See also Cantaloupe, Honeydew, etc.)
 Season: summer
 Taste: sweet
@@ -23047,8 +22897,6 @@ Roasted Monkfish with Spinach, Oyster Ravioli, Watercress Sauce
 
 
 MONKFISH
-
-
 (See also Fish—In General)
 Season: autumn–winter
 Weight: medium
@@ -23166,8 +23014,6 @@ monkfish + white beans + fennel + garlic + saffron + tomatoes
 
 
 MORELS
-
-
 (See Mushrooms, Morels)
 
 
@@ -23237,8 +23083,6 @@ I don’t know the first thing about Moroccan cooking other than eating Moroccan
 
 
 MUSHROOMS—IN GENERAL
-
-
 (See also specific mushrooms)
 Season: late spring–autumn
 Weight: light–medium
@@ -24158,8 +24002,6 @@ mustard + oil + shallots + vinegar
 
 
 MUSTARD GREENS
-
-
 (See Greens, Mustard)
 Tarragon leads me to mustard which leads me to shellfish—which leads me to mussels. The combination of the three is delicious.
 —MICHAEL ANTHONY, GRAMERCY TAVERN (NEW YORK CITY)
@@ -24169,8 +24011,6 @@ Tarragon leads me to mustard which leads me to shellfish—which leads me to mus
 
 
 NECTARINES
-
-
 (See also Peaches)
 Season: late spring–early autumn
 Taste: sweet
@@ -24237,8 +24077,6 @@ yogurt
 
 
 NORTH AFRICAN CUISINE
-
-
 (See also Moroccan Cuisine)
 allspice
 cinnamon
@@ -24392,8 +24230,6 @@ nutmeg + cream + spinach
 
 
 NUTS—IN GENERAL
-
-
 (See also Pecans, Walnuts, etc.)
 Weight: heavy
 Volume: moderate (varies by nut)
@@ -24425,6 +24261,7 @@ Chicken Salad: Diced Fresh Chicken Breast, Granny Smith Apples, Pecans, Celery, 
 
 
 Pan-Seared Sea Scallops and Sautéed Shrimp with Country Ham, Shiitakes, Roasted Shallots, and Pecan-Studded Basmati Rice
+—MARCEL DESAULNIERS, THE TRELLIS (WILLIAMSBURG, VIRGINIA)
 
 
 Spinach Fettuccine with Smoked Tomatoes, Artichokes, Melted Sweet Onions, Fresh Herbs, Toasted Pine Nuts, and Black Pepper Butter
@@ -24799,8 +24636,6 @@ sauces
 
 
 OIL, OLIVE
-
-
 (See Olive Oil)
 
 
@@ -25141,8 +24976,6 @@ If you are finishing a dish, that is also when you would use an assertive, more 
 
 
 Olive oil comes in a wide variety of flavors and strengths even from the same region, much like wine:
-
-
 • I use a heavier (e.g., Puglian, Umbrian, Sicilian) olive oil on biggerflavored dishes. A strong olive oil goes well on bean puree or a strong vegetable like dandelion greens. In the United States, you would put a barbecue sauce on a grilled meat; in Italy, you would use a strong olive oil.
 • I use a lighter (e.g., Ligurian, Tuscan) olive oil on lighter meats like veal or fish dishes and pastas. A Ligurian olive is full and bright and is great on a lighter dish.
 —ODETTE FADA, SAN DOMENICO (NEW YORK CITY)
@@ -25272,8 +25105,6 @@ Olive and Anchovy Tapenade with Sage Crackers
 
 
 OMELETS
-
-
 (See Eggs and Eggbased Dishes)
 
 
@@ -25694,8 +25525,6 @@ vanilla
 
 
 ORANGES, CLEMENTINE
-
-
 (See Oranges, Mandarin)
 
 
@@ -25927,8 +25756,6 @@ Oysters on the Half Shell with Champagne Mignonette and Fresh Horseradish
 
 
 OXTAILS
-
-
 (See Beef)
 
 
@@ -27019,8 +26846,6 @@ peaches + sugar + yogurt
 
 
 PEANUT OIL
-
-
 (See Oil, Peanut)
 
 
@@ -27028,8 +26853,6 @@ PEANUT OIL
 
 
 PEANUTS AND PEANUT BUTTER
-
-
 (See also Nuts—In General)
 Taste: sweet, astringent
 Function: heating
@@ -27326,8 +27149,6 @@ Honey-Roasted Pear Napoleon
 
 
 PEAS—IN GENERAL
-
-
 (See also Snap Peas)
 Season: late spring–summer
 Taste: sweet
@@ -27486,8 +27307,6 @@ Fresh Pea Ravioli with Sweet Onions Sauce and Smoked Pork Reduction
 
 
 PECAN OIL
-
-
 (See Oil, Pecan)
 
 
@@ -27495,8 +27314,6 @@ PECAN OIL
 
 
 PECANS
-
-
 (See also Nuts—In General)
 Season: autumn
 Taste: bitter–sweet
@@ -27753,8 +27570,6 @@ Worcestershire sauce
 
 
 PEPPER, RED
-
-
 (See also Cayenne, Ground)
 Taste: hot
 Weight: light
@@ -27807,8 +27622,6 @@ white and other light-colored foods
 
 
 PEPPERS, BELL
-
-
 (See Bell Peppers)
 
 
@@ -27816,8 +27629,6 @@ PEPPERS, BELL
 
 
 PEPPERS, CHILE
-
-
 (See Chile Peppers)
 
 
@@ -28086,8 +27897,6 @@ I lived in Japan for two years where I fell in love with pickles and pickling. F
 
 
 PIMENTON
-
-
 (See also Paprika)
 I don’t even like to use the word “paprika” when referring to pimenton. It is not the same as Hungarian paprika, which is just dried pepper and doesn’t taste like anything else. The Spanish were the first to plant peppers. Our pimenton has the right touch of sweetness, bitterness, and smoke. Used in a dish it makes the dish a whole new thing. Sprinkled on octopus, it is astonishing.
 —JOSÉ ANDRÉS, CAFÉ ATLÁNTICO (WASHINGTON, DC)
@@ -28391,8 +28200,6 @@ wasabi
 
 
 PISTACHIO OIL
-
-
 (See Oil, Pistachio)
 
 
@@ -28400,8 +28207,6 @@ PISTACHIO OIL
 
 
 PISTACHIOS
-
-
 (See also Nuts—In General)
 Season: year-round
 Weight: medium
@@ -29000,8 +28805,6 @@ walnuts
 
 
 POMELOS
-
-
 (See also Grapefruit)
 Taste: sour, sweet
 Weight: light
@@ -29366,8 +29169,6 @@ pork + port + rosemary
 
 
 PORK—BACON
-
-
 (See Bacon)
 
 
@@ -29502,8 +29303,6 @@ pork chop + peaches + balsamic vinegar
 
 
 PORK—HAM
-
-
 (See Ham)
 
 
@@ -29605,8 +29404,6 @@ Worcestershire sauce
 
 
 PORK—SAUSAGE
-
-
 (See Sausages)
 
 
@@ -29922,8 +29719,6 @@ new potatoes + garlic + shallots + tarragon + vinegar
 
 
 POULTRY
-
-
 (See Chicken, Turkey, etc.)
 
 
@@ -29977,8 +29772,6 @@ walnuts
 
 
 PRUNES
-
-
 (See Plums, Dried)
 
 
@@ -29986,8 +29779,6 @@ PRUNES
 
 
 PUMPKIN
-
-
 (See also Squashes, Winter)
 Season: autumn
 Taste: sweet
@@ -30158,8 +29949,6 @@ yogurt
 
 
 PUMPKIN SEED OIL
-
-
 (See Oil, Pumpkin Seed)
 
 
@@ -30545,8 +30334,6 @@ Quince is something that will never be mainstream because of its unique flavor a
 
 
 RABBIT
-
-
 (See also Game—In General)
 Season: autumn–winter
 Taste: sweet–astringent
@@ -31172,8 +30959,6 @@ raspberries + sugar + vanilla + white chocolate
 
 
 RED SNAPPER
-
-
 (See Snapper)
 
 
@@ -31531,8 +31316,6 @@ Each ingredient you add to your risotto will dictate when it should be added. If
 
 
 RICE, CARNAROLI
-
-
 (See Rice, Arborio)
 
 
@@ -31540,8 +31323,6 @@ RICE, CARNAROLI
 
 
 RICE, JASMINE
-
-
 (See Thai Cuisine)
 
 
@@ -31661,8 +31442,6 @@ yams
 
 
 ROMAINE
-
-
 (See Lettuce, Romaine)
 
 
@@ -32364,8 +32143,6 @@ sake + cucumber + lime
 
 
 SALADS
-
-
 (See also Lettuces and other vegetables)
 When you are eating a salad, the greens are the main ingredient, so whatever you add has to elevate them. Lettuce is boring by itself, so you elevate it with the vinaigrette. We will use herbs in our salads, but they must not overpower the greens; they have to be very subtle and used in small amounts. We will use chives or fresh parsley leaves or a combination of the two. We may also add some mint to the mix because it pushes the flavors of the greens.
 —ERIC RIPERT, LE BERNARDIN (NEW YORK CITY)
@@ -32383,8 +32160,6 @@ For the hickory broth, we smoke some hickory chips, wrap them in cheesecloth wit
 
 
 SALMON
-
-
 (See also Fish—In General)
 Season: spring–early autumn
 Weight: medium
@@ -33317,8 +33092,6 @@ Whole Wheat Spaghetti with Fresh Sardines and Walnuts
 
 
 SAUSAGES
-
-
 (See also Chorizo)
 Weight: light–heavy
 Volume: quiet–loud
@@ -33912,8 +33685,6 @@ We work to inspire a closer relationship with the sea through science, art, and 
 
 
 SEAFOOD—IN GENERAL
-
-
 (See also specific fish and Shellfish)
 Tips: Tap these ideas when cooking a medley of assorted seafood.
 
@@ -33984,8 +33755,6 @@ Seafood Salad with Chickpeas, Celery, and Black Olives
 
 
 SESAME OIL
-
-
 (See Oil, Sesame)
 
 
@@ -34157,8 +33926,6 @@ wine
 
 
 SHELLFISH
-
-
 (See also Crab, Lobster, Scallops, Shrimp, etc.)
 Season: summer
 
@@ -34220,8 +33987,6 @@ I love vanilla with shellfish because it brings out the sweetness. It works with
 
 
 SHIITAKE MUSHROOMS
-
-
 (See Mushrooms—Shiitakes)
 
 
@@ -34303,8 +34068,6 @@ Shiso is a very versatile herb and works with a lot of things. It can work with 
 
 
 SHORT RIBS
-
-
 (See Beef—Short Ribs)
 
 
@@ -34312,8 +34075,6 @@ SHORT RIBS
 
 
 SHRIMP
-
-
 (See also Shellfish)
 Season: year–round
 Weight: light–medium (depending on size)
@@ -34711,8 +34472,6 @@ thyme
 
 
 SMOKED SALMON
-
-
 (See Salmon, Smoked)
 
 
@@ -35526,8 +35285,6 @@ Sautéed vegetables in Spain may get cooked in a little pork fat and then served
 
 
 SPICES
-
-
 (See also individual spices)
 Just a pinch of spices such as fennel, coriander, cumin, and cayenne is great for finishing a sauce. Cayenne is great if you want to raise the heat level. You want to use only a pinch so that you don’t even know it is there. If you are making a French lemon sauce with beurre blanc, lemon puree, and diced lemon zest, adding a pinch of cayenne will bring up the flavor without making it spicy.
 —ANDREW CARMELLINI, A VOCE (NEW YORK CITY)
@@ -35547,8 +35304,6 @@ To counteract overspicing, you need to increase the quantity of whatever you are
 
 
 SPINACH
-
-
 (See also Greens—In General)
 Season: year-round
 Taste: bitter
@@ -35828,8 +35583,6 @@ wine, esp. red
 
 
 SQUASH, ACORN
-
-
 (See also Pumpkin; Squash, Butternut; and Squash, Winter)
 Season: autumn–winter
 Taste: sweet
@@ -35903,8 +35656,6 @@ In winter, one of my favorite combinations is butternut squash with bay leaf and
 
 
 SQUASH, BUTTERNUT
-
-
 (See also Pumpkin; Squash, Acorn; and Squash, Winter)
 Season: early autumn
 Taste: sweet
@@ -36017,8 +35768,6 @@ butternut squash + risotto + sage
 
 
 SQUASH, KABOCHA
-
-
 (See also Squash, Winter)
 
 
@@ -36031,8 +35780,6 @@ kabocha squash + coconut + sweet curry
 
 
 SQUASH, SPAGHETTI
-
-
 (See also Squash, Winter)
 Season: early autumn–winter
 Weight: medium
@@ -36066,8 +35813,6 @@ vinaigrette
 
 
 SQUASH, SUMMER
-
-
 (See also Zucchini)
 Season: summer
 Weight: light–medium
@@ -36116,8 +35861,6 @@ yogurt
 
 
 SQUASH, WINTER
-
-
 (See also Pumpkin; Squash, Acorn; and Squash, Butternut)
 Season: autumn–winter
 Weight: medium–heavy
@@ -36216,8 +35959,6 @@ winter squash + onions + Parmesan cheese + chicken stock
 
 
 SQUASH BLOSSOMS
-
-
 (See Zucchini Blossoms)
 
 
@@ -36335,8 +36076,6 @@ squid + garlic + lemon + parsley
 
 
 STAR ANISE
-
-
 (See Anise, Star)
 
 
@@ -36344,8 +36083,6 @@ STAR ANISE
 
 
 STEAK
-
-
 (See Beef)
 
 
@@ -36539,8 +36276,6 @@ strawberries + rhubarb + sugar
 
 
 STRIPED BASS
-
-
 (See Bass, Striped)
 
 
@@ -36614,8 +36349,6 @@ Thai cuisine
 
 
 SUGAR SNAP PEAS
-
-
 (See Snap Peas)
 
 
@@ -36793,8 +36526,6 @@ zucchini (peak: July)
 
 
 SUNCHOKES
-
-
 (See Artichokes, Jerusalem)
 
 
@@ -37194,8 +36925,6 @@ sweet potatoes + maple syrup + pecans
 
 
 SWISS CHARD
-
-
 (See Chard)
 
 
@@ -37284,8 +37013,6 @@ Swordfish with Eggplant Caviar and Teardrop Tomato Salad
 
 
 SZECHUAN CUISINE
-
-
 (See also Chinese Cuisine)
 Volume: loud
 Techniques: braise, pickle, roast, simmer, steam, stir-fry
@@ -37467,8 +37194,6 @@ tamarind + chicken + yogurt
 
 
 TANGERINES
-
-
 (see Oranges, Mandarin)
 
 
@@ -37680,8 +37405,6 @@ tequila + lime juice + salt
 
 
 TEX-MEX CUISINE
-
-
 (See Mexican Cuisine, Southwestern Cuisine)
 
 
@@ -37882,8 +37605,6 @@ In Spanish cooking, thyme is used very lightly. You will just toss a sprig in so
 
 
 THYME, LEMON
-
-
 (See Lemon Thyme)
 
 
@@ -38372,8 +38093,6 @@ We like to prepare melted leeks, which are leeks cooked in water until they are 
 
 
 TRUFFLES, WHITE
-
-
 (and White Truffle Oil) (See also Oil, Truffle)
 Season: autumn
 Weight: light
@@ -38927,8 +38646,6 @@ turmeric + coriander + cumin (Indian cuisine)
 
 
 TURNIP GREENS
-
-
 (See Greens, Turnip)
 
 
@@ -39541,8 +39258,6 @@ veal tenderloin + garlic + pancetta
 
 
 VEGETABLES
-
-
 (See specific vegetables)
 Tips: Onion enhances the flavor of vegetables, and brings out their sweetness.
 
@@ -39555,8 +39270,6 @@ All year long, I make a pistou [a vegetable soup seasoned with basil, garlic, an
 
 
 VEGETABLES, ROOT
-
-
 (See specific root vegetables, e.g., Carrots)
 Techniques: roast
 
@@ -39588,8 +39301,6 @@ soy sauce
 
 
 VENISON
-
-
 (See also Game—In General)
 Season: autumn
 Weight: heavy
@@ -40478,8 +40189,6 @@ vodka + lime + pineapple
 
 
 WALNUT OIL
-
-
 (See Oil, Walnut)
 
 
@@ -40487,8 +40196,6 @@ WALNUT OIL
 
 
 WALNUTS
-
-
 (See also Nuts—In General)
 Season: autumn
 Taste: bitter, sweet
@@ -40908,8 +40615,6 @@ I started working on my watermelon salad years ago at Jean Georges restaurant. I
 
 
 WHISKEY
-
-
 (See also Bourbon)
 Weight: heavy
 Volume: loud
@@ -40943,8 +40648,6 @@ whiskey + lemon + orange curaçao
 
 
 WILD RICE
-
-
 (See Rice, Wild)
 
 
@@ -40952,8 +40655,6 @@ WILD RICE
 
 
 WINE
-
-
 (See individual varietals)
 
 
@@ -41033,8 +40734,6 @@ With my desserts, I focus on chocolate all year round, but use it even more in w
 
 
 YAMS
-
-
 (See Sweet Potatoes)
 
 
@@ -41248,8 +40947,6 @@ yuzu + caramel + grapefruit + green tea
 
 
 ZUCCHINI
-
-
 (See also Summer Squash)
 Season: spring–summer
 Taste: sweet, astringent
@@ -41356,8 +41053,6 @@ zucchini + Pernod + walnut oil
 
 
 ZUCCHINI BLOSSOMS
-
-
 (See also Zucchini)
 Season: early summer
 Weight: light
